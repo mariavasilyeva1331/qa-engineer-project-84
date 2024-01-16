@@ -1,1 +1,13 @@
-
+- summary: |
+    Не работает переключение между иллюстрациями в карточке товара
+  environment: |
+  Mozilla Firefox 119.0.1 (64-bit) 
+  ОС Linux 22.04 (Ubuntu)
+  steps-to-reproduce: |
+    1. Зайти на главный сайт страницы интернет-магазина https://hexlet-products-store.vercel.app/
+    2. выбрать необходимый товар (например Fashion Magnetic Wrist Watch по ссылке https://hexlet-products-store.vercel.app/products/67)
+    3. попробовать переключаться по иллюстрациям в карточке товара 
+  expected-result: |
+    Изображения будут менятся в зависимости от выбранного цвета часов (в наличии черные, сиреневые, синие, золотые)
+  actual-result: |
+    переключатель между изображениями не работает
