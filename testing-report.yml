@@ -1,27 +1,27 @@
 - summary: |
     Проверка перехода на язык раскладки русский / английский
-status: pass
+  status: pass
 
 - summary: |
     проверка правильности отработки фильтров в интернет-магазине на примерах техники Apple
-status: pass
+  status: pass
 
 - summary: |
     проверка добавления выбранной техники Apple в корзину
-status: pass
+  status: pass
 
- - summary: |
+- summary: |
     проверка отработки фильтра категории Skincare
-status: pass
+  status: pass
 
- - summary: |
+- summary: |
     проверка добавления категории Skincare в корзину с последующим оформлением заказа
-status: pass
+  status: pass
 
- - summary: |
+- summary: |
     проверка удаления товара из корзину
-status: pass
+  status: pass
 
- - summary: |
+- summary: |
     проверка переключения иллюстраций между обзором товара в карточке товара
-status: fail
+  status: fail
